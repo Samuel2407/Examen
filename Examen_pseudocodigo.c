@@ -4,6 +4,9 @@
 void ejer1();
 void ejer2();
 void ejer3();
+
+printf ("\tProbando por primera vez git\n");
+printf ("\tSegundo intento proband git\n");
 int esPrimo(int numero) 
 {
     if (numero <= 1) 
